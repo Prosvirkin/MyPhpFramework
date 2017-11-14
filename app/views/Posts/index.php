@@ -1,0 +1,1 @@
+<h1>INDEX POSTS</h1>
