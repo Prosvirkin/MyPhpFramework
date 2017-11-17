@@ -20,13 +20,25 @@ abstract class Controller
         $this->view = $route["action"];
     }
 
-    public function getView(){
+    public function getView()
+    {
         $viewObj = new View($this->route, $this->layout, $this->view);
         $viewObj->render($this->data);
     }
 
-    public function set($data){
+    public function set($data)
+    {
         $this->data = $data;
+    }
+
+    public function isAjax()
+    {
+        return isset($_SERVER["HTTP_X_REQUESTED_WITH"]) && $_SERVER["HTTP_X_REQUESTED_WITH"] === "XMLHttpRequest";
+    }
+
+    public function loadView($view, $data){
+        extract($data);
+        require APP."/views/{$this->route['controller']}/{$view}.php";
     }
 
 }

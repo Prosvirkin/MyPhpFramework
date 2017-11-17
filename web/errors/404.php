@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title><?php echo $title ?></title>
+    <title>404 not found</title>
     <!-- Bootstrap core CSS -->
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="bootstrap/css/narrow-jumbotron.css" rel="stylesheet">
+    <link href="../bootstrap/css/narrow-jumbotron.css" rel="stylesheet">
 </head>
 <body>
 
@@ -28,10 +28,20 @@
                 </li>
             </ul>
         </nav>
-        <h3 class="text-muted"><?php echo $title ?></h3>
+        <h3 class="text-muted"><?php echo "404 Page not found :(" ?></h3>
     </header>
 
-    <?php echo $content;?>
+    <main role="main">
+
+        <div class="jumbotron">
+            <h1 class="display-3">404 Page not found</h1>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Ad consectetur cum cupiditate dolorem, et ex hic incidunt perspiciatis!
+                Commodi deserunt dicta dolore ea facere fugit in inventore magnam veniam voluptatem.</p>
+        </div>
+
+    </main>
+
 
     <footer class="footer">
         <p>&copy; Company 2017</p>

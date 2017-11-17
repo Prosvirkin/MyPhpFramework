@@ -1,0 +1,716 @@
+[2017-11-17 17:48:33] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of vendor\core\Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 21 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:44
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(21): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(ParseError))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 44
+        
+ =============================== 
+[2017-11-17 17:49:00] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of vendor\core\Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 21 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:44
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(21): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(ParseError))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 44
+        
+ =============================== 
+[2017-11-17 17:49:33] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(ParseError))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:49:34] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(ParseError))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:50:12] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(ParseError))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:50:13] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(ParseError))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:51:26] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(Error))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:51:27] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(Error))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:51:28] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(Error))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:51:28] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(Error))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:55:13] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(Exception))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:55:14] Текст ошибки: Uncaught TypeError: Argument 1 passed to vendor\core\ErrorHandler::exceptionHandler() must be an instance of Exception, none given, called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php:46
+Stack trace:
+#0 E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php(23): vendor\core\ErrorHandler->exceptionHandler()
+#1 [internal function]: vendor\core\ErrorHandler->vendor\core\{closure}(Object(Exception))
+#2 {main}
+  thrown | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:56:03] Текст ошибки: Missing argument 1 for vendor\core\ErrorHandler::exceptionHandler(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php on line 23 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 46
+        
+ =============================== 
+[2017-11-17 17:57:05] Текст ошибки: Undefined variable: e | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 23
+        
+ =============================== 
+[2017-11-17 17:57:06] Текст ошибки: Undefined variable: e | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\ErrorHandler.php | 
+            Строка: 23
+        
+ =============================== 
+[2017-11-17 17:57:17] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 17:57:17] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 17:57:42] Текст ошибки: syntax error, unexpected '$posts' (T_VARIABLE) | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 15
+        
+ =============================== 
+[2017-11-17 17:57:43] Текст ошибки: syntax error, unexpected '$posts' (T_VARIABLE) | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 15
+        
+ =============================== 
+[2017-11-17 17:59:14] Текст ошибки: Undefined variable: test | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 23
+        
+ =============================== 
+[2017-11-17 17:59:21] Текст ошибки: Undefined variable: test | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 23
+        
+ =============================== 
+[2017-11-17 19:03:01] Текст ошибки: date() expects at least 1 parameter, 0 given | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 41
+        
+ =============================== 
+[2017-11-17 19:03:39] Текст ошибки: date() expects at least 1 parameter, 0 given | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 41
+        
+ =============================== 
+[2017-11-17 19:18:41] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:18:41] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:18:42] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:18:42] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:18:43] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:30:33] Текст ошибки: Контроллер app\controllers\AboutController не найден | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 66
+        
+ =============================== 
+[2017-11-17 19:30:35] Текст ошибки: Контроллер app\controllers\ContactController не найден | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 66
+        
+ =============================== 
+[2017-11-17 19:30:38] Текст ошибки: Контроллер app\controllers\AboutController не найден | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 66
+        
+ =============================== 
+[2017-11-17 19:33:47] Текст ошибки: Call to undefined method app\controllers\AboutController::getView() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 61
+        
+ =============================== 
+[2017-11-17 19:35:06] Текст ошибки: Контроллер app\controllers\AsdasdController не найден | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 66
+        
+ =============================== 
+[2017-11-17 19:37:38] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:37:39] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:15] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:15] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:16] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:16] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:16] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:16] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:17] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:17] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:38:17] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 13
+        
+ =============================== 
+[2017-11-17 19:39:02] Текст ошибки: Cannot instantiate abstract class vendor\core\base\Model | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 12
+        
+ =============================== 
+[2017-11-17 19:39:19] Текст ошибки: Cannot instantiate abstract class vendor\core\base\Model | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 12
+        
+ =============================== 
+[2017-11-17 19:39:20] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:39:20] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:39:21] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:39:30] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:39:31] Текст ошибки: Call to a member function render() on string | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:40:02] Текст ошибки: Call to a member function render() on string | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:40:02] Текст ошибки: Call to undefined method app\controllers\MainController::View() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:40:16] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:40:54] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:40:54] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:41:38] Текст ошибки: Non-static method vendor\core\base\View::render() should not be called statically | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 15
+        
+ =============================== 
+[2017-11-17 19:41:39] Текст ошибки: Non-static method vendor\core\base\View::render() should not be called statically | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 15
+        
+ =============================== 
+[2017-11-17 19:41:47] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 15
+        
+ =============================== 
+[2017-11-17 19:41:49] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:41:49] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:42:27] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 13 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:42:28] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 13 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:42:28] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 13 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:42:28] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 13 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:43:24] Текст ошибки: Missing argument 1 for app\controllers\MainController::indexAction(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php on line 60 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 12
+        
+ =============================== 
+[2017-11-17 19:43:24] Текст ошибки: Missing argument 1 for app\controllers\MainController::indexAction(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php on line 60 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 12
+        
+ =============================== 
+[2017-11-17 19:43:25] Текст ошибки: Missing argument 1 for app\controllers\MainController::indexAction(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php on line 60 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 12
+        
+ =============================== 
+[2017-11-17 19:43:30] Текст ошибки: Missing argument 1 for app\controllers\MainController::indexAction(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php on line 60 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 12
+        
+ =============================== 
+[2017-11-17 19:43:31] Текст ошибки: Missing argument 1 for app\controllers\MainController::indexAction(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php on line 60 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 10
+        
+ =============================== 
+[2017-11-17 19:43:45] Текст ошибки: Missing argument 1 for app\controllers\MainController::indexAction(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php on line 60 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 10
+        
+ =============================== 
+[2017-11-17 19:44:12] Текст ошибки: Call to undefined method app\models\Main::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 16
+        
+ =============================== 
+[2017-11-17 19:44:13] Текст ошибки: Call to undefined method app\models\Main::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 16
+        
+ =============================== 
+[2017-11-17 19:44:13] Текст ошибки: Call to undefined method app\models\Main::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 16
+        
+ =============================== 
+[2017-11-17 19:44:14] Текст ошибки: Call to undefined method app\models\Main::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 16
+        
+ =============================== 
+[2017-11-17 19:44:24] Текст ошибки: Call to undefined method app\models\Main::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 16
+        
+ =============================== 
+[2017-11-17 19:44:25] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:25] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:25] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:26] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:26] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:26] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:27] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:27] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:27] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:27] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:28] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:28] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:28] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:28] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:34] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:34] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:35] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:35] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:35] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:35] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:35] Текст ошибки: Missing argument 1 for vendor\core\base\View::__construct(), called in E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php on line 14 and defined | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\base\View.php | 
+            Строка: 17
+        
+ =============================== 
+[2017-11-17 19:44:42] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:42] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:51] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:51] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:52] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:56] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:57] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:57] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:57] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:58] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:58] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:44:58] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:45:10] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 34
+        
+ =============================== 
+[2017-11-17 19:45:49] Текст ошибки: Call to undefined method app\controllers\MainController::view() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:45:50] Текст ошибки: Call to undefined method app\controllers\MainController::view() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:45:50] Текст ошибки: Call to undefined method app\controllers\MainController::view() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:46:52] Текст ошибки: Call to undefined method app\controllers\MainController::view() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:47:11] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:47:11] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:47:12] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:47:12] Текст ошибки: Call to undefined method app\controllers\MainController::render() | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\controllers\MainController.php | 
+            Строка: 14
+        
+ =============================== 
+[2017-11-17 19:49:45] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\app\views\layouts\default.php | 
+            Строка: 8
+        
+ =============================== 
+[2017-11-17 19:54:18] Текст ошибки: Контроллер app\controllers\AsdasdController не найден | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 66
+        
+ =============================== 
+[2017-11-17 19:54:18] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:19] Текст ошибки: Контроллер app\controllers\AsdasdController не найден | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 66
+        
+ =============================== 
+[2017-11-17 19:54:19] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:24] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:24] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:24] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:24] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:24] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:24] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:25] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:25] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:26] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:31] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:31] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:31] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:31] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:31] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:31] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:34] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:34] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:51] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:51] Текст ошибки: Undefined variable: title | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\web\errors\404.php | 
+            Строка: 31
+        
+ =============================== 
+[2017-11-17 19:54:51] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:52] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:52] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:57] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:54:58] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:55:17] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:55:18] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:55:18] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:55:24] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:55:24] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:55:59] Текст ошибки: Страница не найдена | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 69
+        
+ =============================== 
+[2017-11-17 19:57:34] Текст ошибки: Контроллер app\controllers\AsdasdasdController не найден | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 66
+        
+ =============================== 
+[2017-11-17 19:57:57] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: E:\Programs\OpenServer\OpenServer\domains\MyFramework\vendor\core\Router.php | 
+            Строка: 48
+        
+ =============================== 

@@ -52,7 +52,7 @@ class Router
     {
         $url = self::removeQueryString($url);
         if (self::matchRoute($url)) {
-            $controller = 'app\controllers\\' . self::$route['controller'];
+            $controller = 'app\controllers\\' . self::$route['controller'] . "Controller";
             if (class_exists($controller)) {
                 $controllerObj = new $controller(self::$route);
                 $action = self::lowerCase(self::$route['action']) . "Action";
@@ -60,14 +60,13 @@ class Router
                     $controllerObj->$action();
                     $controllerObj->getView();
                 } else {
-                    echo "Method not found";
+                    throw new \Exception("Метод $controller::$action не найден", 404);
                 }
             } else {
-                echo "Controller $controller not found";
+                throw new \Exception("Контроллер $controller не найден", 404);
             }
         } else {
-            http_response_code(404);
-            include '404.php';
+            throw new \Exception("Страница не найдена", 404);
         }
     }
 
